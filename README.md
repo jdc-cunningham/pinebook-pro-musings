@@ -1,3 +1,5 @@
+<img src="./pbp.JPG" width="500" />
+
 ### About device
 
 - great display
