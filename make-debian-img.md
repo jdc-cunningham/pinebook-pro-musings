@@ -48,3 +48,4 @@ No it's at 72% weird... fans were going nuts for a bit
 
 Once I make the image will sftp it to an RPi and download it back to Win 10
 
+This is taking a bit... going to cook, watch my Andor ep
