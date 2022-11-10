@@ -49,3 +49,21 @@ No it's at 72% weird... fans were going nuts for a bit
 Once I make the image will sftp it to an RPi and download it back to Win 10
 
 This is taking a bit... going to cook, watch my Andor ep
+
+9:26 PM
+
+damn this install is cooking my MBP
+
+10:10 PM
+
+it's still going... I'm on `select and install software`
+
+10:23 PM
+
+Installing desktop environment and what not
+
+10:45 PM
+
+ohhh man... it's possible this won't finish before I have to go to sleep
+
+not sure if I should have increased the core count or if it's the emulation
