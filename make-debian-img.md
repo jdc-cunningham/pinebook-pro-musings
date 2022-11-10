@@ -71,3 +71,9 @@ not sure if I should have increased the core count or if it's the emulation
 11:19 PM
 
 damn if it goes to sleep (display) it stops working completely ugh...
+
+12:01 AM
+
+my god... finally over wow
+
+more than 2 hours, that ain't right
