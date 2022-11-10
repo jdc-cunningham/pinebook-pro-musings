@@ -29,6 +29,7 @@
   - Cons
     - lag, click some UI thing takes a few seconds to appear
     - this KDE wallet thing, annoying, WiFi does not reconnect
+    - no sound (out of speakers)
 
 - i3 (broken)
 
