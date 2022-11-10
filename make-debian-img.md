@@ -77,3 +77,13 @@ damn if it goes to sleep (display) it stops working completely ugh...
 my god... finally over wow
 
 more than 2 hours, that ain't right
+
+damn it is slow though
+
+right now I don't have an Arm-based computer (other than PBP/PPP) that is mine (haha work M1).
+
+So I'll commit to this even if it takes a whle
+
+<img src="./debian-arm-emulated-on-2015-mbp.JPG" width="800"/>
+
+Damn... it's taking a long ass time just to bring the desktop up this might have been a waste of time idk. I'll see if I can improve other settings to make it better.
