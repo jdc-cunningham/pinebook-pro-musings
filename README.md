@@ -30,6 +30,8 @@
     - lag, click some UI thing takes a few seconds to appear
     - this KDE wallet thing, annoying, WiFi does not reconnect
 
+- i3 (broken)
+
 - General hardware
   - as is the setup does not suspend/hibernate when closing the lid
     overnight the battery loses 50% of charge
