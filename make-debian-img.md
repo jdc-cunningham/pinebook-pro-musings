@@ -67,3 +67,7 @@ Installing desktop environment and what not
 ohhh man... it's possible this won't finish before I have to go to sleep
 
 not sure if I should have increased the core count or if it's the emulation
+
+11:19 PM
+
+damn if it goes to sleep (display) it stops working completely ugh...
