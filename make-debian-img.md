@@ -87,3 +87,21 @@ So I'll commit to this even if it takes a whle
 <img src="./debian-arm-emulated-on-2015-mbp.JPG" width="800"/>
 
 Damn... it's taking a long ass time just to bring the desktop up this might have been a waste of time idk. I'll see if I can improve other settings to make it better.
+
+Adding more cores, not sure if using something other than arm7 would help...
+
+I wonder if I messed up the install somehow, I chose Debian desktop and XFCE... tried both not seeing anything on GUI
+
+oh... you have to lock the mouse cursor for it to detect something's happening... or maybe it was a coincidence lol
+
+it's pretty snappy now
+
+this is murdering my mbp though fans on constantly and fast
+
+it's working though, I'll have to try this build tomorrow
+
+this is not usable... I mean I'm looking at firefox but the lag...
+
+I have a RPi 4 I forgot
+
+I can get a desktop on there, I think Arm V8 is Arm 64
