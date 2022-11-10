@@ -5,3 +5,5 @@ ah shit... can't do it here lol
 "what OS are you running?" I'm using Alpine
 
 I guess I'll bust out my pinephone pro again
+
+well that was not helpful, not sure if I'm supposed to be running Debian to make a Debian image.
