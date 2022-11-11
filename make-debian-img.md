@@ -1,5 +1,23 @@
 https://github.com/pyavitz/debian-image-builder
 
+11/10/2022
+
+what ended up happening is I tried to compile it myself using an RPi (only other Arm64 thing I owned)
+
+I tried to do it with my Pinephone Pro but for some reason it didn't work out... maybe I could have tried with Mobian... anyway RPi had some issues
+
+I ended up getting help from the debian-image-builder discord who built a pinebook pro image for me
+
+this works so I'm going with that on SD card
+
+I'm just writing these logs down for future reference
+
+- staring at CLI login, login
+- run `menu-config`
+- I did everything except 3) keyboard and 8) software
+- locales check only one
+- miscellanious do taskel (for distro choice)
+  - keep the sudo command it outputs in mind, need it later
 
 
 11/09/2022
