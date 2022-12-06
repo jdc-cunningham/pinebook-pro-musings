@@ -19,8 +19,9 @@
   - boots eMMC
   - better mouse performance
 - Cons
-  - No VS Code sucks due to Alpine using `musl libc` vs. `gibc`
-    - using Kate to write this now
+  - ~~No VS Code sucks due to Alpine using `musl libc` vs. `gibc`~~
+    - ~~using Kate to write this now~~
+  - there is VS Code for Alpine see [here](https://pkgs.alpinelinux.org/package/edge/testing/aarch64/code-oss)
   - issue with Tauri, this `dbus-1` thing
 
 - Plasma KDE
